@@ -21,7 +21,6 @@ public class NoteHelper : HelperBase
     
     public void CreateNote(NoteData noteData)
     {
-        //driver.FindElement(By.LinkText("Написать новую запись")).Click();
         driver.Navigate().GoToUrl("https://www.my-diary.org/edit/a/new");
         driver.FindElement(By.CssSelector("[id='etitle']")).Click();
         driver.FindElement(By.CssSelector("[id='etitle']")).SendKeys(noteData.Header);

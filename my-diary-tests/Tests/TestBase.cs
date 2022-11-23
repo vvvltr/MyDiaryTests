@@ -20,6 +20,7 @@ public class TestBase
     public void SetUp()
     {
         appManager = ApplicationManager.GetInstance();
+        appManager.navigation.OpenHomePage();
     }
     
 }

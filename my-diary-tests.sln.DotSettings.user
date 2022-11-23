@@ -1,0 +1,166 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=03511860_002Df97a_002D41f6_002D81a6_002Dcb98a7bfccac/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;my-diary-tests&amp;gt; #28" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\Владислава\RiderProjects\my-diary-tests\my-diary-tests" Presentation="&amp;lt;my-diary-tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0a2904af_002Df20e_002D4d76_002Dbc35_002D0299cd1ab998/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;my-diary-tests&amp;gt; #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\Владислава\RiderProjects\my-diary-tests\my-diary-tests" Presentation="&amp;lt;my-diary-tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=113b4d62_002D7910_002D4699_002Db16c_002D2ab9094fe74a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;my-diary-tests&amp;gt; #20" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\Владислава\RiderProjects\my-diary-tests\my-diary-tests" Presentation="&amp;lt;my-diary-tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1545180c_002Ddd3c_002D47a3_002D879f_002Ded485acd747d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;my-diary-tests&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\Владислава\RiderProjects\my-diary-tests\my-diary-tests" Presentation="&amp;lt;my-diary-tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=191f16a8_002D6cbb_002D49be_002Db3da_002Dd8f9aabaea62/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;my-diary-tests&amp;gt; #15" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\Владислава\RiderProjects\my-diary-tests\my-diary-tests" Presentation="&amp;lt;my-diary-tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=19e45d1c_002De734_002D4fd2_002Da290_002D05a5280c6677/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;my-diary-tests&amp;gt; #11" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\Владислава\RiderProjects\my-diary-tests\my-diary-tests" Presentation="&amp;lt;my-diary-tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1c2832cf_002Ddce2_002D4517_002D9008_002Da70f4e56e517/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;my-diary-tests&amp;gt; #19" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\Владислава\RiderProjects\my-diary-tests\my-diary-tests" Presentation="&amp;lt;my-diary-tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=20a513dd_002D3f96_002D435b_002D83a9_002Dd0cb01103767/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="LoginTest #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E74557E5-4856-4326-BCDA-10CFB17F7DCB::net7.0::my_diary_tests.LogintestTest.LoginTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=28d1060c_002Da8c3_002D494d_002D8a6b_002Df941c74b65b9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="LoginTest #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E74557E5-4856-4326-BCDA-10CFB17F7DCB::net7.0::my_diary_tests.LogintestTest.LoginTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2b8495eb_002Ddbe7_002D4b01_002Db6db_002Deb6619ec8f91/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;my-diary-tests&amp;gt; #25" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\Владислава\RiderProjects\my-diary-tests\my-diary-tests" Presentation="&amp;lt;my-diary-tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2ea95f24_002Db585_002D4c61_002D862a_002D06dbb90328f3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ChangeNote #6" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E74557E5-4856-4326-BCDA-10CFB17F7DCB::net7.0::ChangenoteTest.ChangeNote&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3201d966_002Da4ad_002D4f99_002Da60e_002D265cc008f651/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from Solution" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=333f2ce4_002D58a7_002D4846_002D9788_002D95a534eb06cb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;my-diary-tests&amp;gt; #24" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\Владислава\RiderProjects\my-diary-tests\my-diary-tests" Presentation="&amp;lt;my-diary-tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=34e46399_002D44fa_002D4a88_002D9c74_002D40499120ad50/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;my-diary-tests&amp;gt; #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\Владислава\RiderProjects\my-diary-tests\my-diary-tests" Presentation="&amp;lt;my-diary-tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=37853123_002Df524_002D4197_002D9f52_002D4d038a83a30e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;my-diary-tests&amp;gt; #17" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\Владислава\RiderProjects\my-diary-tests\my-diary-tests" Presentation="&amp;lt;my-diary-tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4746d320_002D5200_002D4bb3_002D8402_002D0d1f61c9466c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="DeserializeXMLTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E74557E5-4856-4326-BCDA-10CFB17F7DCB::net7.0::my_diary_tests.DeserializeTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=47b58930_002Dfb2b_002D4a95_002Db074_002D19a3d5151cbf/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;my-diary-tests&amp;gt; #29" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\Владислава\RiderProjects\my-diary-tests\my-diary-tests" Presentation="&amp;lt;my-diary-tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4b5ec53b_002D7938_002D4132_002Dbbe7_002Dd7a8e4dcb30f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ChangeNote #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E74557E5-4856-4326-BCDA-10CFB17F7DCB::net7.0::ChangenoteTest.ChangeNote&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=501f9e21_002Da434_002D4a6c_002D92ee_002Dfc1df3d30d61/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ChangeNote" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E74557E5-4856-4326-BCDA-10CFB17F7DCB::net7.0::ChangenoteTest.ChangeNote&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=566d1ed2_002Da392_002D4ad0_002Da6eb_002Dc7b27e807499/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;my-diary-tests&amp;gt; #27" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\Владислава\RiderProjects\my-diary-tests\my-diary-tests" Presentation="&amp;lt;my-diary-tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=59b36993_002Da9aa_002D448c_002Dbf35_002D044bf14815e5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="LoginTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E74557E5-4856-4326-BCDA-10CFB17F7DCB::net7.0::my_diary_tests.LogintestTest.LoginTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5a8c597f_002D92fe_002D40e3_002Db2f5_002D6a4d0a9bcdbc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;my-diary-tests&amp;gt; #7" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\Владислава\RiderProjects\my-diary-tests\my-diary-tests" Presentation="&amp;lt;my-diary-tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5df4689a_002D9417_002D4ddf_002Da359_002Df42e1e4072bc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;my-diary-tests&amp;gt; #13" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\Владислава\RiderProjects\my-diary-tests\my-diary-tests" Presentation="&amp;lt;my-diary-tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=79cea910_002Dfd6e_002D4e87_002Da4d8_002D1ff76721518c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Login" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=829e1e8a_002D92df_002D4d64_002Db609_002D542d2f62592e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;my-diary-tests&amp;gt; #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\Владислава\RiderProjects\my-diary-tests\my-diary-tests" Presentation="&amp;lt;my-diary-tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=84f38bf7_002Dc62f_002D4caf_002Da6b1_002D2abe957213a9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;my-diary-tests&amp;gt; #10" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\Владислава\RiderProjects\my-diary-tests\my-diary-tests" Presentation="&amp;lt;my-diary-tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8c883afd_002Dfabc_002D4de7_002D9d73_002De5a34da4a35b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;my-diary-tests&amp;gt; #12" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\Владислава\RiderProjects\my-diary-tests\my-diary-tests" Presentation="&amp;lt;my-diary-tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8ce4d63f_002D2b1c_002D4613_002D8f21_002D214518c16561/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;my-diary-tests&amp;gt; #8" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\Владислава\RiderProjects\my-diary-tests\my-diary-tests" Presentation="&amp;lt;my-diary-tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9285d938_002Dc170_002D4562_002D9265_002Da74a52445159/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ChangeNote #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E74557E5-4856-4326-BCDA-10CFB17F7DCB::net7.0::ChangenoteTest.ChangeNote&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=93337a07_002D8205_002D4b1c_002D82b7_002D7ac831b78f11/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;my-diary-tests&amp;gt; #6" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\Владислава\RiderProjects\my-diary-tests\my-diary-tests" Presentation="&amp;lt;my-diary-tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=95d790dd_002D9661_002D4b08_002D9f56_002D7433de29673c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;my-diary-tests&amp;gt; #23" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\Владислава\RiderProjects\my-diary-tests\my-diary-tests" Presentation="&amp;lt;my-diary-tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a6dd8bca_002D4ac1_002D47c8_002Db5a2_002D1f1f2a8368fa/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;my-diary-tests&amp;gt; #22" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\Владислава\RiderProjects\my-diary-tests\my-diary-tests" Presentation="&amp;lt;my-diary-tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ab38fe82_002De896_002D471c_002D9bc4_002D4df6931f97fd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;my-diary-tests&amp;gt; #9" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\Владислава\RiderProjects\my-diary-tests\my-diary-tests" Presentation="&amp;lt;my-diary-tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b1453cbb_002D06a7_002D4b82_002D86ad_002D8e0da9a190e0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="LoginTest #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E74557E5-4856-4326-BCDA-10CFB17F7DCB::net7.0::my_diary_tests.LogintestTest.LoginTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b28da339_002Ddce8_002D4abd_002Daa3d_002D3288e5b91d3b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="DeleteNote" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E74557E5-4856-4326-BCDA-10CFB17F7DCB::net7.0::my_diary_tests.DeleteNoteTest.DeleteNote&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E74557E5-4856-4326-BCDA-10CFB17F7DCB::net7.0::my_diary_tests.LoginTest.LoginWithInvalidData&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b2fd9f25_002D9e8c_002D4ec8_002D81c7_002D0781ec576abc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;my-diary-tests&amp;gt; #21" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\Владислава\RiderProjects\my-diary-tests\my-diary-tests" Presentation="&amp;lt;my-diary-tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b9a37a52_002D2c3f_002D44bd_002Db0f4_002Db2f99e297acd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;my-diary-tests&amp;gt; #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\Владислава\RiderProjects\my-diary-tests\my-diary-tests" Presentation="&amp;lt;my-diary-tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=be865a5b_002D0a51_002D4261_002D99f4_002D428a8ae153ae/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ChangeNote #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E74557E5-4856-4326-BCDA-10CFB17F7DCB::net7.0::ChangenoteTest.ChangeNote&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c0daf7ea_002Df132_002D4f75_002Db543_002Df4e3d1b76ab1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;my-diary-tests&amp;gt; #16" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\Владислава\RiderProjects\my-diary-tests\my-diary-tests" Presentation="&amp;lt;my-diary-tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ca4c2935_002D992c_002D4e19_002D8fb7_002D9e609c4a0afc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;my-diary-tests&amp;gt; #18" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\Владислава\RiderProjects\my-diary-tests\my-diary-tests" Presentation="&amp;lt;my-diary-tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e10ccf8c_002D3bec_002D404b_002D91cb_002D65bbbbdbe9b6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;my-diary-tests&amp;gt; #26" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\Владислава\RiderProjects\my-diary-tests\my-diary-tests" Presentation="&amp;lt;my-diary-tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e27a2a29_002D91bc_002D44b3_002D9b25_002Dab8240c8cd12/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="LoginTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E74557E5-4856-4326-BCDA-10CFB17F7DCB::net7.0::my_diary_tests.LogintestTest.LoginTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e9cebd39_002Dc8fa_002D426e_002Da33e_002Dc86a1ecb3efb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="LoginTest #6" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E74557E5-4856-4326-BCDA-10CFB17F7DCB::net7.0::my_diary_tests.LoginTest.Login&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=eae498de_002D3a9f_002D45c6_002Db650_002D92fda2bf7b20/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from Solution #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f2fac330_002D2ccc_002D4612_002Db2f4_002Df5adf70015a4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;my-diary-tests&amp;gt; #14" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\Владислава\RiderProjects\my-diary-tests\my-diary-tests" Presentation="&amp;lt;my-diary-tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f606125a_002Daa01_002D4b95_002D8a66_002D31107b8dda53/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ChangeNote #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

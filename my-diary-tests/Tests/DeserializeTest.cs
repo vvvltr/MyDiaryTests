@@ -24,11 +24,9 @@ using my_diary_tests;
 
 
 [TestFixture]
-public class DeserializeTest : TestBase
-{ 
-    XmlSerializer xmlSerializer = new XmlSerializer(typeof(NoteData));
-    
-     public static IEnumerable<NoteData> NoteFromXmlFile()
+public class DeserializeTest : AuthBase
+{
+    public static IEnumerable<NoteData> NoteFromXmlFile()
      {
          return (List<NoteData>) new XmlSerializer(typeof(List<NoteData>))
              .Deserialize(new FileStream(@"C:\Users\Владислава\RiderProjects\my-diary-tests\my-diary-tests\text.xml", FileMode.OpenOrCreate));
@@ -37,8 +35,7 @@ public class DeserializeTest : TestBase
      [Test, TestCaseSource("NoteFromXmlFile")]
      public void CreateNoteFromXMLTest(NoteData noteData)
      {
-         appManager.Navigation.OpenHomePage();
-         appManager.Authentication.Login(appManager.authentication.userData);
+         
          int count = appManager.Posting.GetNotesInfo();
          appManager.Posting.CreateNote(noteData);
          Assert.AreEqual(count+1,appManager.Posting.GetNotesInfo());

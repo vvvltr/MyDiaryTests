@@ -15,25 +15,14 @@ using NUnit.Framework;
 
 namespace my_diary_tests;
 
-
 [TestFixture]
-public class DeleteNoteTest : TestBase {
-  
-  public NoteData notedata = new NoteData("note to delete", 
-    "Нам всем кажется, что если — не скрою, и мне иногда так " +
-    "кажется — что если навести твёрдый порядок жёсткой рукой, " +
-    "то всем нам станет жить лучше, комфортнее и безопаснее. " +
-    "На самом деле, эта «комфортность» очень быстро пройдёт, " +
-    "потому что эта жёсткая рука начнёт нас очень быстро душить.");
-
-  [Test, Order(3)]
-  public void DeleteNote()
-  {
-    appManager.Navigation.OpenHomePage();
-    appManager.Authentication.Login(appManager.authentication.userData);
-    int count = appManager.Posting.GetNotesInfo() - 1;
-    Thread.Sleep(1000);
-    appManager.Posting.DeleteNote();
-    Assert.AreEqual(count,  appManager.Posting.GetNotesInfo());
-  }
+public class DeleteNoteTest : AuthBase {
+    [Test, Order(3)]
+    public void DeleteNote()
+    {
+      int count = appManager.Posting.GetNotesInfo() - 1;
+      Thread.Sleep(1000);
+      appManager.Posting.DeleteNote();
+      Assert.AreEqual(count,  appManager.Posting.GetNotesInfo());
+    }
 }

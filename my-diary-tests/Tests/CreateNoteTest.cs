@@ -16,22 +16,19 @@ using NUnit.Framework;
 namespace my_diary_tests;
 
 [TestFixture]
-public class CreateNoteTest : TestBase {
+public class CreateNoteTest : AuthBase {
   
-  public AccountData userData = new AccountData("vladislava.turina@yandex.ru", "q2eueq0vl");
   public NoteData notedata = new NoteData("the header", 
     "Нам всем кажется, что если — не скрою, и мне иногда так " +
     "кажется — что если навести твёрдый порядок жёсткой рукой, " +
     "то всем нам станет жить лучше, комфортнее и безопаснее. На самом деле, эта «комфортность» очень быстро пройдёт, потому что эта жёсткая рука начнёт нас очень быстро душить.");
 
-  public NoteData data2 = new NoteData("header", "text");
   
   [Test, Order(2)]
   public void СreateNote() {
-    appManager.Navigation.OpenHomePage();
-    appManager.Authentication.Login(userData);
     int count = appManager.Posting.GetNotesInfo();
     appManager.Posting.CreateNote(notedata);
     Assert.AreEqual(count+1,appManager.Posting.GetNotesInfo());
+    appManager.Stop();
   }
 }

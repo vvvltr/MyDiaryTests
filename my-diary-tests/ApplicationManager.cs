@@ -29,19 +29,17 @@ public class ApplicationManager
     public LoginHelper authentication;
     public NoteHelper posting;
 
-    public bool loggedIn;
 
     private ApplicationManager()
     {
         driver = new ChromeDriver();
         js = (IJavaScriptExecutor)driver;
         vars = new Dictionary<string, object>();
-        baseURL = "https://www.my-diary.org/";
+        baseURL = Settings.BaseURL;
         verificationErrors = new StringBuilder();
         authentication = new LoginHelper(this);
         navigation = new NavigationHelper(this);
         posting = new NoteHelper(this);
-        loggedIn = false;
     }
 
     public static ApplicationManager GetInstance()
